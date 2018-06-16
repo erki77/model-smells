@@ -1,6 +1,6 @@
 # model-smells
 
-A catalog of model smells
+A catalog of model smells.
 
 It is a part of the work that was published in the paper:
 
